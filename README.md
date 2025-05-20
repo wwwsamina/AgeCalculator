@@ -3,7 +3,7 @@
 A clean and interactive web app to calculate your exact age in **years, months, and days**. Built with HTML, CSS, and JavaScript.
 
 🔗 Live Demo
-[Click here to try it out](https://wwwsamina.github.io/AgeCalculator/))  
+[Click here to try it out](https://wwwsamina.github.io/AgeCalculator/)
 
 📸 Features
 - Input your birth date
